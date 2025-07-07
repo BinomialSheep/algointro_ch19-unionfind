@@ -4,3 +4,10 @@
 
 実装系の練習問題を解く。  
 全部の練習問題と章末を解いているわけではない。
+
+## verify
+
+### 普通の unite と same
+
+- [AOJ DSL_1_A Disjoint Set: Union Find Tree](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DSL_1_A)
+- [提出](https://judge.u-aizu.ac.jp/onlinejudge/review.jsp?rid=10696984#1)
