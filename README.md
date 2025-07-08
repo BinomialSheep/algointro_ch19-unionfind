@@ -11,3 +11,8 @@
 
 - [AOJ DSL_1_A Disjoint Set: Union Find Tree](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DSL_1_A)
 - [提出](https://judge.u-aizu.ac.jp/onlinejudge/review.jsp?rid=10696984#1)
+
+### Weighted Union Find Trees
+
+- [AOJ DSL_1_B Weighted Union Find Trees](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DSL_1_B)
+- [提出](https://judge.u-aizu.ac.jp/onlinejudge/review.jsp?rid=10697877#1)
