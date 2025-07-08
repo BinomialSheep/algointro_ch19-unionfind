@@ -16,3 +16,9 @@
 
 - [AOJ DSL_1_B Weighted Union Find Trees](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DSL_1_B)
 - [提出](https://judge.u-aizu.ac.jp/onlinejudge/review.jsp?rid=10697877#1)
+
+### オフライン LCA
+
+- [AOJ GRL_5_C Lowest Common Ancestor](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=GRL_5_C)
+
+## その他
